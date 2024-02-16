@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "72299768433",
+    "project_id": "market-app-b7",
+    "storage_bucket": "market-app-b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72299768433:android:45100830bc77d24709c9d0",
+        "android_client_info": {
+          "package_name": "com.example.uzummarketclientapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdsp24JDOepwKFIGW88LeJ9X8yQ4nLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72299768433:android:92f9626374d4f86b09c9d0",
+        "android_client_info": {
+          "package_name": "com.sudo_pacman.uzumseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdsp24JDOepwKFIGW88LeJ9X8yQ4nLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72299768433:android:42f51d0b3c999c5f09c9d0",
+        "android_client_info": {
+          "package_name": "uz.gita.marketappb7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdsp24JDOepwKFIGW88LeJ9X8yQ4nLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
